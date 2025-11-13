@@ -53,7 +53,7 @@ I am passionate about transforming raw data into meaningful insights that suppor
 ## 📬 646-749-1801
 📧 Email: **ik42469n@pace.edu**  
 🔗 LinkedIn: *www.linkedin.com/in/ivainashedionekahanda*  
-🌍 GitHub: **github.com/ivainashedionekahanda**
+🌍 GitHub: **https://github.com/ivainashedionekahanda**
 
 ---
 
