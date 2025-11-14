@@ -35,7 +35,22 @@ I am passionate about transforming raw data into meaningful insights that suppor
 
 ---
 
-## 🔹 2. Car Dealership Data Analysis & Sales Prediction
+## 🔹 2. Intro to Data Science – Parkinson’s Telemonitoring EDA
+Analyzes a biomedical dataset of **5,875 voice samples** from 42 Parkinson’s patients to explore how vocal features relate to disease severity.
+
+### **Key Contributions**
+- Loaded, validated, and prepared the dataset (22 voice-based features).
+- Performed EDA: summaries, correlations, heatmaps, pairplots.
+- Identified top correlated features affecting `total_UPDRS`.
+- Investigated outliers using the IQR method.
+- Highlighted voice metrics (NHR, RPDE) linked to disease progression.
+  
+### **Tools:** Pandas, NumPy, Seaborn, Jupyter Notebook
+🔗 *Repository coming soon*
+
+---
+
+## 🔹 3. Car Dealership Data Analysis & Sales Prediction
 **Goal:** Analyze customer behavior, sales patterns, and car inventory trends to improve business decision-making.
 
 ### **Key Contributions**
